@@ -10,9 +10,4 @@ Hi! Thanks for stopping by! I'm currently working on a new portfolio for myself 
 - Docker
 
 ## Goal
-This is to make a comparison to bootstrap and react.
-
-I'll be making two separate repositories for a react version and a bootstrap version.
-
-## Final Thoughts
-Final Thoughts will go here once both sites are completed.
+This is to build a new protfolio showcasing the use of bootstrap and react in this project.
